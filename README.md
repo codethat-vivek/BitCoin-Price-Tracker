@@ -1,1 +1,1 @@
-# BitCoint-Price-Tracker
+# BitCoin-Price-Tracker
