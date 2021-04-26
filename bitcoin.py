@@ -25,14 +25,4 @@ f1 = ("algerian", 24, "bold")
 f2 = ("poppins", 22, "bold")
 f3 = ("poppins", 18, "normal")
 
-label = tk.Label(canvas, text = "BitCoin Price", font = f1)
-label.pack(pady = 20)
-
-labelPrice = tk.Label(canvas, font = f2)
-labelPrice.pack(pady = 20)
-
-labelTime = tk.Label(canvas, font = f3)
-labelTime.pack(pady = 20)
-
-trackBitCoin()
-canvas.mainloop()
+# need to add few more lines to make this work
